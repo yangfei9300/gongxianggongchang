@@ -1,0 +1,213 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+	{
+	    "path" : "pages/show/show",
+	    "style" :                                                                                    
+	    {
+	        "navigationBarTitleText": "",
+	        "enablePullDownRefresh": false,
+			"navigationStyle": "custom"
+	    }  
+	},
+	{
+		"path" : "pages/lyb/lyb",
+		"style" : 
+		{
+			"navigationBarTitleText" : "618",
+			"enablePullDownRefresh" : false
+		}
+	},
+		{
+		    "path" : "pages/ProductSelection/ProductSelection",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "产品选型",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		},
+		{
+		    "path" : "pages/ProductAlbum/ProductAlbum",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "产品相册",
+		        "enablePullDownRefresh": false,
+				"navigationStyle": "custom"
+		    }
+		    
+		},
+		
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "共享工厂"
+			}
+		}
+	    ,{
+            "path" : "pages/login/login",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "登录",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        
+        ,{
+            "path" : "pages/synopsis/synopsis",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "公司简介",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/user/user",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "个人中心",
+                "enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#1F5197",
+				"navigationBarTextStyle": "white"
+            }
+        }
+        ,{
+            "path" : "pages/goodInfo/goodInfo",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "商品详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/orders/orders",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "订单中心",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/updateUserInfo/updateUserInfo",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "完善信息",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/imgInfo/imgInfo",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "画册详情",
+                "enablePullDownRefresh": false
+            }
+            
+        },
+        {
+        	"path" : "pages/goodInfo1/goodInfo1",
+        	"style" : 
+        	{
+        		"navigationBarTitleText" : "商品详情",
+        		"enablePullDownRefresh" : false
+        	}
+        },
+        {
+        	"path" : "pages/myCart/myCart",
+        	"style" : 
+        	{
+        		"navigationBarTitleText" : "我的购物车",
+        		"enablePullDownRefresh" : false
+        	}
+        },
+        {
+        	"path" : "pages/goodInfo2/goodInfo2",
+        	"style" : 
+        	{
+        		"navigationBarTitleText" : "商品详情",
+        		"enablePullDownRefresh" : false
+        	}
+        },
+        {
+        	"path" : "pages/goodInfo3/goodInfo3",
+        	"style" : 
+        	{
+        		"navigationBarTitleText" : "",
+        		"enablePullDownRefresh" : false
+        	}
+        },
+        {
+        	"path" : "pages/fuwenben/fuwenben",
+        	"style" : 
+        	{
+        		"navigationBarTitleText" : "",
+        		"enablePullDownRefresh" : false
+        	}
+        },
+        {
+        	"path" : "pages1/lybInfo/lybInfo",
+        	"style" : 
+        	{
+        		"navigationBarTitleText" : "详情",
+        		"enablePullDownRefresh" : false
+        	}
+        }
+        
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#272727",  
+		"selectedColor": "#1F5197",
+		"backgroundColor": "#FFFFFF",
+		"borderStyle": "black",
+		"list": 
+		[
+			{
+				"pagePath": "pages/lyb/lyb",
+				"text": "",
+				"iconPath": "/static/lyb.png",
+				"selectedIconPath": "/static/lyb1.png"
+			}, {
+				"pagePath": "pages/ProductSelection/ProductSelection",
+				"text": "产品选型",
+				"iconPath": "/static/02@2x.png",
+				"selectedIconPath": "/static/06@2x.png"
+			},  
+			// {   
+			// 	"pagePath": "pages/ProductAlbum/ProductAlbum",
+			// 	"text": "产品相册",
+			// 	"iconPath": "/static/01@2x.png",
+			// 	"selectedIconPath": "/static/05@2x.png"
+			// },    
+			 
+			{   
+				"pagePath": "pages/synopsis/synopsis",
+				"text": "公司简介",
+				"iconPath": "/static/03@2x.png",
+				"selectedIconPath": "/static/07@2x.png"
+			}    ,   
+			{
+				"pagePath": "pages/myCart/myCart",
+				"text": "购物车",
+				"iconPath": "/static/cart1.png",
+				"selectedIconPath": "/static/cart2.png"
+			}    ,   
+			{      
+				"pagePath": "pages/user/user",
+				"text": "个人中心",
+				"iconPath": "/static/04@2x.png",
+				"selectedIconPath": "/static/08@2x.png"
+			}   
+		]  
+	},    
+	"uniIdRouter": {}
+}

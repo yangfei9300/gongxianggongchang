@@ -1,0 +1,80 @@
+page{
+	background-color: #f5f5f5;
+}
+.topview{
+	width: 750rpx;
+	height: 227rpx;
+	background: #1F5197;
+	border-radius: 0rpx 0rpx 0rpx 0rpx;
+	opacity: 1;
+	position: relative;
+	/* margin-bottom: 20rpx; */
+}
+.leftname{
+	width: 550rpx;
+	height: 36rpx;
+	font-size: 30rpx;
+	font-family: Inter-Medium, Inter;
+	font-weight: 500;
+	color: #000000;
+	line-height: 35rpx;
+}
+.listitem{
+	width: 719rpx;
+	height: 109rpx;
+	background: #FFFFFF;
+	border-radius: 21rpx 21rpx 21rpx 21rpx;
+	opacity: 1;
+	padding:37rpx 25rpx;
+	margin:15rpx;
+}
+.bottomalert{
+	width: 749rpx;
+	height: 803rpx;
+	background: #FFFFFF;
+	border-radius: 40rpx 40rpx 0rpx 0rpx;
+	opacity: 1;
+	position: absolute;bottom: 0rpx;
+	left: 0rpx;
+}
+.titleeealert{
+	height: 48rpx;
+	font-size: 40rpx;
+	font-family: Inter-Medium, Inter;
+	font-weight: 500;
+	color: #000000;
+	line-height: 47rpx;
+}
+.headimg{
+	width: 163rpx;
+	height: 163rpx;
+	border-radius: 50%;
+}
+.uploadbrnupload{
+	width: 230rpx;
+	height: 65rpx;
+	background: #1F5197;
+	border-radius: 21rpx 21rpx 21rpx 0rpx;
+	opacity: 1;
+	position: relative;
+	right: -80rpx;
+	text-align: center;
+	color: white;
+	font-size: 30rpx;
+	line-height: 60rpx;
+}
+.inputnickname{
+	width: 413rpx;
+	height: 89rpx;
+	border-radius: 50rpx 50rpx 50rpx 50rpx;
+	opacity: 1;
+	border: 1rpx solid #919191;
+}
+.loginbrn{
+	width: 567rpx;
+	height: 89rpx;
+	background: #1F5197;
+	border-radius: 50rpx 50rpx 50rpx 50rpx;
+	opacity: 1;
+}
+

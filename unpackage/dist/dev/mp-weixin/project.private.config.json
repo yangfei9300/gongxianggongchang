@@ -1,0 +1,98 @@
+{
+  "description": "项目私有配置文件。此文件中的内容将覆盖 project.config.json 中的相同字段。项目的改动优先同步到此文件中。详见文档：https://developers.weixin.qq.com/miniprogram/dev/devtools/projectconfig.html",
+  "projectname": "共享工厂",
+  "setting": {
+    "compileHotReLoad": true
+  },
+  "condition": {
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages1/lybInfo/lybInfo",
+          "pathName": "pages1/lybInfo/lybInfo",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "pages1/lybInfo/lybInfo",
+          "pathName": "pages1/lybInfo/lybInfo",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "pages/myCart/myCart",
+          "pathName": "pages/myCart/myCart",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "pages/user/user",
+          "pathName": "pages/user/user",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "pages/user/user",
+          "pathName": "pages/user/user",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "pages/goodInfo3/goodInfo3",
+          "pathName": "pages/goodInfo3/goodInfo3",
+          "query": "code=G8133473638253057626",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "pages/orders/orders",
+          "pathName": "pages/orders/orders",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "pages/goodInfo2/goodInfo2",
+          "pathName": "pages/goodInfo2/goodInfo2",
+          "query": "code=G8121288338068442341",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "pages/goodInfo3/goodInfo3",
+          "pathName": "pages/goodInfo3/goodInfo3",
+          "query": "code=G8133473638253057626",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "pages/myCart/myCart",
+          "pathName": "pages/myCart/myCart",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "pages/goodInfo/goodInfo",
+          "pathName": "pages/goodInfo/goodInfo",
+          "query": "code=G7862095925443065111",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "pages/goodInfo1/goodInfo1",
+          "pathName": "pages/goodInfo1/goodInfo1",
+          "query": "code=G8120570824846268023",
+          "launchMode": "default",
+          "scene": null
+        }
+      ]
+    }
+  },
+  "libVersion": "3.4.2"
+}

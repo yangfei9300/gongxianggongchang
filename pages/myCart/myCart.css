@@ -1,0 +1,55 @@
+page{
+	background-color: #f5f5f5;
+}
+
+.cartitem{
+	width: 710rpx;
+	background: white;
+	border-radius: 10rpx;
+	margin:20rpx 20rpx 0rpx 20rpx;
+}
+.goodimg{
+	/* background-color: red; */
+	width: 209rpx;
+	height: 200rpx;
+}
+.quancanshu{
+	background-color: #F9F9F9;
+	padding:0rpx 10rpx;
+	font-size: 25rpx;
+	color: #999999;
+}
+.jiahao{
+	width: 40rpx;
+	font-size: 30rpx;
+	background: rgba(249,249,249,0);
+	border-radius: 5rpx 5rpx 5rpx 5rpx;
+	text-align: center;
+	
+}
+.asdsadr{
+	border: 1rpx solid #BBBBBB;
+}
+.asdsa{
+	width: 70rpx;
+	border-left: 1rpx solid #BBBBBB;
+	text-align: center;
+	border-right: 1rpx solid #BBBBBB;
+}
+.bottomvieww{
+	width: 750rpx;
+	/* height: 176rpx; */
+	background: #FFFFFF;
+	position: fixed;
+	bottom: 0rpx;
+	left: 0rpx;
+}
+.tijiap{
+	width: 150rpx;
+	height: 80rpx;
+	color: white;
+	text-align: center;
+	line-height: 80rpx;
+	border-radius: 10rpx;
+	background-color:   #205197;
+}

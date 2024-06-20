@@ -1,0 +1,58 @@
+page{
+	background-color: #F3F4F6;
+}
+.riqi{
+	height: 36rpx;
+	font-size: 30rpx;
+	font-family: Inter-Medium, Inter;
+	font-weight: 500;
+	color: #757575;
+	line-height: 35rpx;
+	line-height: 45rpx;
+}
+.listview{
+	width: 719rpx;
+	/* height: 109rpx; */
+	background: #FFFFFF;
+	border-radius: 21rpx 21rpx 21rpx 21rpx;
+	opacity: 1;
+	padding:25rpx 0rpx;
+}
+.goodinic{
+	height: 36rpx;
+	font-size: 30rpx;
+	font-family: Inter-Medium, Inter;
+	font-weight: 500;
+	color: #757575;
+	line-height: 35rpx;
+	padding-left: 15rpx;
+}
+.goodname{
+	/* width: 405rpx; */
+	height: 36rpx;
+	font-size: 30rpx;
+	font-family: Inter-Medium, Inter;
+	font-weight: 500;
+	color: #000000;
+	line-height: 35rpx;
+}
+
+.goodname1{
+/* 	width: 405rpx; */
+	line-height: 36rpx;
+	font-size: 30rpx;
+	font-family: Inter-Medium, Inter;
+	font-weight: 500;
+	color: #000000;
+	line-height: 45rpx;
+}
+
+
+
+.goodinsa{
+	width: 550rpx;
+	height: 200rpx;
+	background-color: white;
+	border-radius: 15rpx;
+	padding:30rpx 0rpx;
+}

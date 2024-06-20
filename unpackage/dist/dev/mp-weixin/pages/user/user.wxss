@@ -1,0 +1,35 @@
+.headerimg{
+	width: 122rpx;
+	height: 122rpx;
+}
+.title{
+	width: 144rpx;
+	height: 44rpx;
+	font-size: 36rpx;
+	font-family: Inter-Medium, Inter;
+	font-weight: 500;
+	color: #272636;
+	line-height: 42rpx;
+}
+.bopttombt{
+	width: 400rpx;
+	height:80rpx;
+	background-color: #1F5197;
+	color: white;
+	border-radius: 10rpx;
+	text-align: center;line-height: 80rpx;
+}
+.btts{
+	background-color:     #F7612C;
+	color: white;
+	line-height: 80rpx;
+	width: 400rpx;
+	border-radius: 15rpx;
+	text-align: center;
+}
+.line11{
+	width:50rpx;
+	height:1rpx;
+	background-color: #c9c9c9;
+}
+

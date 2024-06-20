@@ -1,0 +1,66 @@
+{
+  "pages": [
+    "pages/show/show",
+    "pages/ProductSelection/ProductSelection",
+    "pages/ProductAlbum/ProductAlbum",
+    "pages/index/index",
+    "pages/login/login",
+    "pages/synopsis/synopsis",
+    "pages/user/user",
+    "pages/goodInfo/goodInfo",
+    "pages/orders/orders",
+    "pages/updateUserInfo/updateUserInfo",
+    "pages/imgInfo/imgInfo",
+    "pages/goodInfo1/goodInfo1",
+    "pages/myCart/myCart",
+    "pages/goodInfo2/goodInfo2",
+    "pages/goodInfo3/goodInfo3",
+    "pages/fuwenben/fuwenben"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#272727",
+    "selectedColor": "#1F5197",
+    "backgroundColor": "#FFFFFF",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/ProductSelection/ProductSelection",
+        "text": "产品选型",
+        "iconPath": "/static/02@2x.png",
+        "selectedIconPath": "/static/06@2x.png"
+      },
+      {
+        "pagePath": "pages/ProductAlbum/ProductAlbum",
+        "text": "产品相册",
+        "iconPath": "/static/01@2x.png",
+        "selectedIconPath": "/static/05@2x.png"
+      },
+      {
+        "pagePath": "pages/synopsis/synopsis",
+        "text": "公司简介",
+        "iconPath": "/static/03@2x.png",
+        "selectedIconPath": "/static/07@2x.png"
+      },
+      {
+        "pagePath": "pages/myCart/myCart",
+        "text": "购物车",
+        "iconPath": "/static/cart1.png",
+        "selectedIconPath": "/static/cart2.png"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "text": "个人中心",
+        "iconPath": "/static/04@2x.png",
+        "selectedIconPath": "/static/08@2x.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

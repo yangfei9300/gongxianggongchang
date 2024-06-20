@@ -1,0 +1,24 @@
+.inpurview{
+	width: 719rpx;
+	height: 109rpx;
+	background: #FFFFFF;
+	border-radius: 21rpx 21rpx 21rpx 21rpx;
+	opacity: 1;
+	margin:15rpx 15rpx 0rpx 15rpx;
+}
+page{
+	background-color: #F3F4F6;
+}
+.baocunxinia{
+	width: 640rpx;
+	height: 93rpx;
+	background: #1F5197;
+	border-radius: 28rpx 28rpx 28rpx 28rpx;
+	opacity: 1;
+	line-height: 93rpx;
+	text-align: center;
+	color: white;
+	position: fixed;
+	bottom: 175rpx;
+}
+

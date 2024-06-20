@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "产品相册",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {}
+}
